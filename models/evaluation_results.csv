@@ -1,0 +1,5 @@
+Strategy,Avg Total Reached,95% CI,Avg Peak Infected,Avg Steps
+No Intervention,62.7% ± 4.5%,"[61.1%, 64.4%]",40.9%,20.5
+Random Agents,52.2% ± 7.3%,"[49.6%, 54.9%]",30.5%,21.3
+Greedy Strategy,30.8% ± 10.6%,"[27.1%, 34.6%]",17.2%,15.9
+RL Agents (Ours),28.7% ± 9.1%,"[25.4%, 31.9%]",16.6%,15.6

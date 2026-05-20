@@ -1,0 +1,5 @@
+Strategy,Total Reached (mean),Total Reached (±std),Peak Infected,Reduction vs Baseline,Relative Reduction,Significance
+No Intervention,63.9%,±5.7%,40.3%,-0.0%,-0.0%,
+Random Agents,51.6%,±7.8%,29.9%,-12.3%,-19.2%,
+Greedy (Degree),32.6%,±9.4%,17.8%,-31.3%,-49.0%,
+RL Agents (Ours),30.1%,±8.0%,17.3%,-33.8%,-52.9%,"p=0.0035, d=0.294"

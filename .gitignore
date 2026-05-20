@@ -1,0 +1,11 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+models/*.zip
+data/
+*.pkl
+*.png
+*.html
+node_modules/
+.env
